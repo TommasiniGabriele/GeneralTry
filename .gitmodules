@@ -1,0 +1,3 @@
+[submodule "GeneralTry"]
+	path = GeneralTry
+	url = git@github.com:TommasiniGabriele/GeneralTry.git
